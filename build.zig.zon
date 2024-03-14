@@ -12,8 +12,8 @@
             .hash = "1220b1d1c438cfdf381a5439ed9744c568d4bcf2242bc21232c8e73db451ab1f5562",
         },
         .attr = .{
-            .url = "https://github.com/MidstallSoftware/attr.zig/archive/475154966e342d69a91d78f600beb2136315c3e8.tar.gz",
-            .hash = "12206ae9ce0671d93054f82524b04098439fbee8f3a906732acc9aaa2acff5206e4c",
+            .url = "https://github.com/MidstallSoftware/attr.zig/archive/429b487f620ebc9110112310ee5cd601359fa08a.tar.gz",
+            .hash = "12208465fb9d7358265b0c9d9cd403ba77c7c6a6b0f57e48e418f2674faaf85a6a5c",
         },
     },
 }
